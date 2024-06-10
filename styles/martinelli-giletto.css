@@ -1,3 +1,7 @@
 header .nav-wrapper, footer, main .hero .hero-content .seperator  {
     background-color: #205a41 !important;
 }
+
+.text-intro {
+    font-size: 30px;
+}
