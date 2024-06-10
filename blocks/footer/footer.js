@@ -16,7 +16,7 @@ export default async function decorate(block) {
     // decorate footer DOM
     const footer = document.createElement('div');
     footer.innerHTML = html;
-
+    console.log("mappa google mg");
     decorateIcons(footer);
     block.append(footer);
   }
