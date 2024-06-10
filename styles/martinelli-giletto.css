@@ -26,6 +26,11 @@ header nav .nav-brand img {
     width: 180px !important;
 }
 
+.text-intro img {
+    width: 80% !important;
+    max-width: 600px !important;
+}
+
 @media (min-width: 900px) {
 .background-grey .columns > div {
     height: 600px !important;
