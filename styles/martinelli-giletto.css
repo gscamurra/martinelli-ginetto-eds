@@ -1,5 +1,6 @@
 header .nav-wrapper, footer, main .hero .hero-content .seperator  {
     background-color: #205a41 !important;
+    height: auto !important;
 }
 
 .text-intro {
@@ -16,7 +17,7 @@ header .nav-wrapper, footer, main .hero .hero-content .seperator  {
 
 @media (min-width: 900px) {
 .background-grey .columns > div {
-    height: 500px !important;
+    height: auto !important;
 }
 
-}
+} 
