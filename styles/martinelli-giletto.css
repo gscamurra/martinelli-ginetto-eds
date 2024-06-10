@@ -7,7 +7,11 @@ header .nav-wrapper, footer, main .hero .hero-content .seperator  {
     text-align: center;
 }
 
-.no-separator .columns > div, .background-grey .columns > div {
+.no-separator .columns > div {
+    border-bottom: 0 !important;
+}
+
+.background-grey .columns > div {
     border-bottom: 0 !important;
     height: auto !important;
 }
