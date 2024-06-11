@@ -50,7 +50,7 @@ header nav .nav-brand img {
     .background-grey .columns > div {
         width: 100% !important;
     }
-    .background-grey.section .default-content-wrapper .columns-2-cols div div {
+    .background-grey .columns > div div {
         padding-left: 10px;
         padding-right: 10px;
     }
