@@ -45,5 +45,9 @@ header nav .nav-brand img {
 
     .background-grey.section .default-content-wrapper {
         text-align: center;
-    } 
+    }
+    
+    .background-grey .columns > div {
+        width: 100% !important;
+    }
 }
