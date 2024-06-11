@@ -37,10 +37,10 @@ header nav .nav-brand img {
     max-width: 600px !important;
 }
 
-/*
-@media (min-width: 900px)  {
-.background-grey .columns > div , .no-separator .columns > div {
-    height: 600px !important;
-}
 
-}*/ 
+@media (max-width: 900px)  {
+    .background-grey.section {
+        margin-top: 250px;
+    }
+
+}
