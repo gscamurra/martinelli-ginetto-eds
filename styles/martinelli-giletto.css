@@ -38,9 +38,8 @@ header nav .nav-brand img {
 }
 
 
-@media (max-width: 900px)  {
+@media (max-width: 900px) {
     .background-grey.section {
         margin-top: 250px;
     }
-
 }
